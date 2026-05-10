@@ -1,8 +1,8 @@
 # Eric Ahi
-**💚[GreenWeb](greenweb.fi)** - Web Development for Finnish businesses with international ambitions. Based in Helsinki.<br>
-**🤖[SolmuAI](solmu.ai)** - Developing AI Automations & AI-Agents for Companies in Europe!
+**💚[GreenWeb](https://greenweb.fi)** - Web Development for Finnish businesses with international ambitions. Based in Helsinki.<br>
+**🤖[SolmuAI](https://solmu.ai)** - Developing AI Automations & AI-Agents for Companies in Europe!
 
-ℹ️[**Linkedin Profile**](linkedin.com/in/mrcatto)ℹ️
+ℹ️[**Linkedin Profile**](https://linkedin.com/in/mrcatto)ℹ️
 
 ## 🤔About Me
 I've been building websites and shipping software professionally since 2014, and got into AI in October 2022, [before ChatGPT existed](https://openai.com/fi-FI/index/chatgpt/). Today I build web apps and other applications, do AI-assisted software development, and design multi-agent orchestration systems with hierarchical agent roles, MCP tooling, and sandboxed execution environments.
@@ -11,7 +11,7 @@ I've been building websites and shipping software professionally since 2014, and
 
 
 ## 🔭Currently working on
-🧠**WEBAG** - a five-agent hierarchy [(Orchestrator → Project Manager → Design / Code / Comms)](github.com/samyh89) that runs the operations (semi)-automatically with shared context & memory-system, sandboxed in isolated containers. Works like a HiveMind.<br>
+🧠**WEBAG** - a five-agent hierarchy [(Orchestrator → Project Manager → Design / Code / Comms)](https://github.com/samyh89) that runs the operations (semi)-automatically with shared context & memory-system, sandboxed in isolated containers. Works like a HiveMind.<br>
 
 💚**GreenWeb** - agency operations, client work & projects, and the website itself<br>
 🤖**SolmuAI** - agency operations, client work & projects, and the website itself
@@ -29,4 +29,4 @@ I do graphic design and 3D work outside of code, this has been a hobby of mine n
 
 ## Open for
 Web development projects · AI agent workflow consulting or Development · AI-augmented development for agencies<br>
-📧 eric@greenweb.fi · 🌐 [greenweb.fi](greenweb.fi) · 🎨 [Behance](behance.net/mrcatto)
+📧 eric@greenweb.fi · 🌐 [greenweb.fi](https://greenweb.fi/) · 🎨 [Behance](https://behance.net/mrcatto)
