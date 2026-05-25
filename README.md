@@ -1,6 +1,6 @@
 # Eric Ahi
 **💚[GreenWeb](https://greenweb.fi)** - Web Development for Finnish businesses with international ambitions. Based in Helsinki.<br>
-**🤖[SolmuAI](https://solmu.ai)** - Developing AI Automations & AI-Agents for Companies in Europe!
+**🤖[Scalion](https://scalion.fi)** - Developing AI Automations & AI-Agents for Companies in Europe!
 
 ℹ️[**Linkedin Profile**](https://linkedin.com/in/mrcatto)ℹ️
 
